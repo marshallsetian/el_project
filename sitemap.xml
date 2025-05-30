@@ -1,74 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>https://www.elproject.web.id</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>1.0</priority>
+       <loc>https://elproject.web.id/</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/web-dev.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/index.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/team.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.7</priority>
+       <loc>https://elproject.web.id/services.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/services.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/events.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/recording.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/team.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/qweensalon.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/contact.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/papan-ucapan.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/web-dev.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/mc.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/papan-ucapan.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/interior.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/decoration.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/index.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>1.0</priority>
+       <loc>https://elproject.web.id/interior.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/events.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.5</priority>
+       <loc>https://elproject.web.id/barongsai.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/decoration.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
+       <loc>https://elproject.web.id/mc.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/contact.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.5</priority>
+       <loc>https://elproject.web.id/qweensalon.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
   <url>
-    <loc>https://www.elproject.web.id/barongsai.html</loc>
-    <lastmod>2025-05-30</lastmod>
-    <priority>0.8</priority>
-    
+       <loc>https://elproject.web.id/recording.html</loc>
+       <lastmod>2025-05-30T14:55:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
   </url>
 </urlset>
